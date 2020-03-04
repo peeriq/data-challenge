@@ -6,7 +6,7 @@ PeerIQ is growing and we are seeking exceptional candidates to build out our dat
 The test is designed to give us a lot of the information we need to know about you!
 
 ## Requirements
-Jupyter Notebook and Microsoft Excel
+Jupyter Notebook and Microsoft Excel (Or any other applications to open .xlsx)
 
 ## Python Challenge
 Download [PeerIQ.Python.Data.Analyst.Challenge.ipnyb](https://peeriq-interview.s3.amazonaws.com/PeerIQ.Python.Data.Analyst.Challenge.ipynb)
