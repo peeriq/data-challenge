@@ -10,10 +10,9 @@ Jupyter Notebook and Microsoft Excel
 
 ## Python Challenge
 Go to resources folder and download:
- * lc_raw_data.zip
- * PeerIQ.Python.Data.Analyst.Challenge.ipnyb
- 
-Save both files in your local machine. Open up the jupyter notebook and follow further instructions in that file. 
+ * PeerIQ.Python.Data.Analyst.Challenge.ipnyb (raw data can be downloaded from this jupyter notebook)
+
+Open up the jupyter notebook and follow further instructions in that file. 
 
 
 ## Excel and SQL Challenge
