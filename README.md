@@ -9,14 +9,13 @@ The test is designed to give us a lot of information we need to know about you!
 Jupyter Notebook and Microsoft Excel
 
 ## Python Challenge
-Go to resources folder and download:
- * PeerIQ.Python.Data.Analyst.Challenge.ipnyb (raw data can be downloaded from this jupyter notebook)
+Download [PeerIQ.Python.Data.Analyst.Challenge.ipnyb](https://peeriq-interview.s3.amazonaws.com/PeerIQ.Python.Data.Analyst.Challenge.ipynb)
 
 Open up the jupyter notebook and follow further instructions in that file. 
 
 
 ## Excel and SQL Challenge
-Go to resources folder and download PeerIQ.Excel.Data.Analyst.Challenge.xlsx.
+Download [PeerIQ.Excel.Data.Analyst.Challenge.xlsx](https://peeriq-interview.s3.amazonaws.com/PeerIQ.Excel.Data.Analyst.Challenge.xlsx)
 
 Save the file in your local machine. Open up the workbook and follow further instructions in the file.
 
